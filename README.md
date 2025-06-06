@@ -107,7 +107,7 @@ An SSD1306 OLED displays set RPM, actual RPM, and error in real time.
 
 ---
 
-## How It Works
+## Working
 
 1. **Keypad Input**
 
@@ -201,7 +201,7 @@ float kp = 1.5, ki = 0.8, kd = 0.09;
 * **Ki (Integral):** Eliminates steady‐state offset but can induce overshoot and windup if too large.
 * **Kd (Derivative):** Adds damping, reduces overshoot, and helps stabilize transient response.
 
-### How to Tune
+### Tuning
 
 1. **Start with all terms = 0**:
 
