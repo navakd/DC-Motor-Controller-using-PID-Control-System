@@ -26,8 +26,8 @@ An SSD1306 OLED displays set RPM, actual RPM, and error in real time.
 
 1. **Arduino Uno** (or compatible)
 2. **L298N Dual H‐Bridge Motor Driver**
-3. **DC Motor with Quadrature Encoder** (e.g., 840 CPR)
-4. **4×3 Keypad** (membrane style)
+3. **DC Motor with Quadrature Encoder** ( 840 CPR)
+4. **4×3 Keypad** 
 5. **SSD1306 OLED Display** (I²C, 128×64)
 6. **Jumper Wires**
 7. **External 12 V Power Supply** (for motor & L298N)
